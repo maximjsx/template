@@ -13,7 +13,7 @@ import { DiscordIcon } from "@/components/icons";
 export const metadata = {
   title: "Template",
   description:
-    "A powerful starter template combining NextJS, HeroUI, Shadcn, and Aceternity UI. Designed for modern (& fancy) web development.",
+    "A powerful starter template combining NextJS, HeroUI, Shadcn, MagicUI and Aceternity UI. Designed for modern web development.",
   icons: {
     icon: "/favicon.ico",
   },

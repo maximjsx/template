@@ -76,7 +76,7 @@ export default function ComponentsPage() {
   return (
     <div className="container mx-auto px-4 py-8">
       <header className="mb-8 text-center">
-        <title>Components Overview</title>
+        <title>Components</title>
         <TextAnimate
           animation="blurInUp"
           by="character"
