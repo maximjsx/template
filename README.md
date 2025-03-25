@@ -1,6 +1,6 @@
 <div align="center">
   <h1>NextJS Ultimate UI Template</h1>
-  <p>A basic starter template combining the best UI libraries and modern web development tools.</p>
+  <p>A basic starter template combining the best UI component libraries for modern web development</p>
   <div>
     <a href="https://github.com/maximjsx/template">
       <img src="https://img.shields.io/github/stars/maximjsx/template.svg?style=social" alt="GitHub stars">
