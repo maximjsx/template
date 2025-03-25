@@ -18,8 +18,6 @@
 
 ## Compatible Libraries
 
-<div align="center">
-
 <table>
   <tr>
     <td><a href="https://www.heroui.com/"><strong>HeroUI</strong></a></td>
@@ -35,8 +33,6 @@
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
