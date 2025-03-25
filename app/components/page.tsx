@@ -27,6 +27,9 @@ const componentLibraries = [
     icon: "/techicons/aceternity.png",
     installCommandMap: {
       npm: "npx shadcn@latest add https://ui.aceternity.com/registry/3d-card.json",
+      yarn: "",
+      pnpm: "",
+      bun: "",
     },
     docLink: "https://ui.aceternity.com/components/3d-card-effect",
   },
@@ -60,6 +63,9 @@ const componentLibraries = [
     description: "Installation of the elastic line component",
     installCommandMap: {
       npm: `npx shadcn@latest add "https://fancycomponents.dev/r/elastic-line.json"`,
+      yarn: "",
+      pnpm: "",
+      bun: "",
     },
     docLink:
       "https://www.fancycomponents.dev/docs/components/physics/elastic-line",
